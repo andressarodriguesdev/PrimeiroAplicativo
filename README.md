@@ -43,7 +43,7 @@ Este é um aplicativo Android simples de **temporizador**, criado com o objetivo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/andressarodriguesdev/PrimeiroAplicativo.git
    ```
 
 2. Abra o projeto no **Android Studio**
